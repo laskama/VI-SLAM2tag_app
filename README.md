@@ -2,7 +2,10 @@
 
 ![](img/GA.png)
 
-This repository hosts the implementation of the paper **VI-SLAM2tag: Low-Effort Labeled Dataset Collection for Fingerprinting-Based Indoor Localization**.
+This repository hosts the implementation of the paper
+
+> M. Laska, T. Schulz, J. Grottke, C. Blut and J. Blankenbach, "VI-SLAM2tag: Low-Effort Labeled Dataset Collection for Fingerprinting-Based Indoor Localization," To appear at 2022 International Conference on Indoor Positioning and Indoor Navigation (IPIN), 5 - 7 Sep. 2022, Beijing, China, doi: [10.48550/arXiv.2207.02668](https://doi.org/10.48550/arXiv.2207.02668).
+
 Fingerprinting-based localization is a technique that requires labeled sensor data, where the label is the position of collection.
 Typically this data is collected in a site survey, where fingerprints are manually tagged by the collector.
 This paper proposes a solution for low-effort labeled data collection by leveraging Android ARCore for automatically obtaining ground truth positions for collected fingerprints.
